@@ -1,0 +1,59 @@
+[
+    {
+      "id": 1,
+      "post": {
+        "img": "https://i.postimg.cc/sDbQ11x5/2.png",
+        "title": "The Importance of Version Control in Software Development",
+        "date": "2024-03-10",
+        "reading_time": 12 ,
+        "hashtags": ["coding", "versioncontrol", "development"]
+      },
+      "author": {
+        "img": "https://i.postimg.cc/jjcyWKGK/boy1.png",
+        "name": "Alex Johnson"
+      }
+    },
+    {
+      "id": 2,
+      "post": {
+        "img": "https://i.postimg.cc/fbzHyM8j/4.jpg",
+        "title": "Understanding Recursion: A Beginner's Guide",
+        "date": "2024-03-11",
+        "reading_time": 8,
+        "hashtags": ["coding", "recursion", "beginner"]
+      },
+      "author": {
+        "img": "https://i.postimg.cc/jjcyWKGK/boy1.png",
+        "name": "Emily Brown"
+      }
+    },
+    {
+      "id": 3,
+      "post": {
+        "img": "https://i.postimg.cc/bvwKM0fh/3.png",
+        "title": "Best Practices for Writing Clean Code",
+        "date": "2024-03-12",
+        "reading_time": 10, 
+        "hashtags": ["coding", "bestpractices", "cleancode"]
+      },
+      "author": {
+        "img": "https://i.postimg.cc/CK8jwXgH/girl1.jpg",
+        "name": "Michael Lee"
+      }
+    },
+    {
+      "id": 4,
+      "post": {
+        "img": "https://i.postimg.cc/sXcGXR0S/1.jpg",
+        "title": "Introduction to Object-Oriented Programming (OOP)",
+        "date": "2024-03-13",
+        "reading_time": 15,
+        "hashtags": ["coding", "oop", "programming"]
+      },
+      "author": {
+        "img": "https://i.postimg.cc/W1kDZZHs/girl2.jpg",
+        "name": "Sarah Clark"
+      }
+    }
+  ]
+  
